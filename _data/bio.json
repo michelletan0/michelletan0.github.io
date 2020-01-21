@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "michelletan",
         "url": "http://linkedin.com/in/michelletan0"
       }
     ]
@@ -43,15 +43,7 @@
       "keywords": [
       ]
     }
-  ],
-  "skills": [
-    {
-      
-      ]
-    },
-    {
-     
-      ]
+  
     }
   ],
   "education": [
@@ -62,8 +54,8 @@
       "startDate": "2018",
       "endDate": "Present",
       "gpa": "3.83",
-      "courses": [
-      ]
+      "courses": 
+     
     }
   ],
   "work": [
@@ -76,21 +68,7 @@
       "summary": "Asisst in the Faculty Support office",
       
       ]
-    },
-    {
-      
-      ]
-    }
-  ],
-  [
-    {
-      
-      ]
-    },
-    {
-      
-      ]
-    }
+  
   ],
   "awards": [
     {
@@ -107,5 +85,4 @@
       "name": "Available upon request",
       "reference": ""
     }
-  ]
-}
+
