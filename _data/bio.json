@@ -44,8 +44,8 @@
     }
   
     }
-  ],
-  "education": [
+  
+  "education": 
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "MIS, IB (expected Spring, 2022)",
@@ -56,8 +56,8 @@
       "courses": 
      
     }
-  ],
-  "work": [
+  
+  "work": 
     {
       "company": "William S. Richardson School of Law",
       "position": "Student Assistant",
@@ -66,10 +66,10 @@
       "endDate": "Present",
       "summary": "Asisst in the Faculty Support office",
       
-      ]
+     
   
-  ],
-  "awards": [
+ 
+  "awards": 
    
     {
       "title": "First place Hawaii DECA (Marketing) ",
@@ -77,8 +77,8 @@
       "awarder": "DECA",
       "summary": "Participated in a case competition in the category marketing communications"
     }
-  ],
-  "references": [
+  
+  "references": 
     {
       "name": "Available upon request",
       "reference": ""
