@@ -31,12 +31,11 @@
     {
       "name": "traveling",
       "keywords": [
-      ]
+   
     },
     {
       "name": "hiking",
       "keywords": [
-      ]
     },
     {
       "name": "environment",
@@ -71,8 +70,7 @@
   
   ],
   "awards": [
-    {
-    },
+   
     {
       "title": "First place Hawaii DECA (Marketing) ",
       "date": "2018",
