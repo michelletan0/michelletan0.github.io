@@ -83,4 +83,100 @@
       "name": "Available upon request",
       "reference": ""
     }
+ ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C",
+        "C++",
+        "Java",
+        "Javascript",
+        "Assembly",
+        "Common Lisp"
 
+      ]
+    },
+    {
+      "name": "Toolsets/OS",
+      "level": "",
+      "keywords": [
+        "MacOS",
+        "Ubuntu",
+        "Git/GitHub",
+        "g++",
+        "TI LaunchPad"
+
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2018)",
+      "area": "MIS, IB (expected Spring, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
+      "startDate": "2018",
+      "endDate": "Present",
+      "gpa": "",
+      "gpa": "3.83",
+      "courses": [
+      ]
+    }
+  ],
+  "work": [
+    {
+      "company": "William S. Richardson School of Law",
+      "position": "Student Assistant at the Faculty Support Office",
+      
+      "
+      "
+      "startDate": "2019-Feburary",
+      "endDate": "Present",
+      "summary": "Assist the office of Faculty Support",
+      "highlights": [
+        "Maintain, update, and oversee official college newspaper website",
+        "Drive, design and build student-community projects for UH Manoa"
+      "summary": "Asisst in the Faculty Support office",
+
+      ]
+    },
+    {
+      ""
+
+      ]
+    }
+  ],
+  "volunteer": [
+  [
+    {
+      "organization": "Center for Renewable Energy and Island Sustainability",
+      "website": "http://manoa.hawaii.edu/reis",
+      "position": "Software Developer",
+      "startDate": "2016-01-01",
+      "endDate": "Present",
+      "summary": "Lead developer for weather sensing project",
+      "highlights": [
+        "Design firmware for distributed weather sensor network",
+        "Maintain custom data collection and storage infrastructure"
+
+      ]
+    },
+    {
+      ""
+
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "1st Place Hawaii State DECA Marketing Communications",
+      "date": "2018",
+      "awarder": "Hawaii State DECA",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+    },
+  
+  ],
+  "references": [
